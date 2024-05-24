@@ -1,0 +1,17 @@
+{
+  "name": "simple-item-manager",
+  "version": "1.0.0",
+  "description": "An item list application built with Express.js, MongoDB, HTML, and JavaScript. Users can add, delete, and view items on the list.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
